@@ -1,8 +1,10 @@
 const CACHE_NAME = 'tower-of-hanoi-v1';
 const URLS_TO_CACHE = [
+  'index.html',
   'style.css',
   'https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.0/jquery.min.js',
   'script.js',
+  'manifest.json',
   'assets/me.jpg',
   'assets/icon/48x48.png',
   'assets/icon/72x72.png',
