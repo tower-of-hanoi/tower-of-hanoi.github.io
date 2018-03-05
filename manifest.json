@@ -5,7 +5,7 @@
   "display": "standalone",
   "background_color": "#dc143c",
   "theme_color": "#dc143c",
-  "orientation": "portrait-primary",
+  "orientation": "landscape-primary",
   "description": "tower of hanoi game developed by javascript & jquery. provided as web, desktop and mobile game. using service worker API",
   "icons": [
     {
